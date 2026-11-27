@@ -1,94 +1,160 @@
-# Hey, I'm Yoagesh S 👋
+<div align="center">
 
-### Full Stack Developer | AI Enthusiast | Builder | Tech Explorer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YOAGESH%20S&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20BUILDER&descAlignY=58&descSize=16"/>
 
-I love turning ideas into real-world products through code, creativity, and technology.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+LLM+Explorer;Building+Ideas+Into+Products;Future+Tech+Entrepreneur" />
 
-I'm a final-year BCA student passionate about building useful software, exploring Artificial Intelligence, and understanding how technology can solve real-world problems.
-
-- 🔭 Currently building AI-powered applications and web products.
-- 🌱 Learning Full Stack Development, LLMs, RAG, and AI Engineering.
-- 💡 Interested in Startups, Automation, and Open Source.
-- 🎯 Goal: Build products that make a meaningful impact.
-- 🤝 Open to collaborations, internships, and exciting projects.
-- ⚡ Fun fact: I believe the best way to learn is to build something.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```python
+class Yoagesh:
+    def __init__(self):
+        self.name = "Yoagesh S"
+        self.role = "Full Stack Developer"
+        self.education = "Final Year BCA"
+        self.interests = [
+            "Artificial Intelligence",
+            "Web Development",
+            "LLMs & RAG",
+            "Startups",
+            "Automation"
+        ]
+        self.currently_building = "AI-powered applications"
 
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+    def ambition(self):
+        return "Build. Learn. Innovate. Repeat."
 
-### AI & Tools
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+me = Yoagesh()
+```
+
+- 🔭 Building AI-powered applications and digital products.
+- 🌱 Exploring LLMs, RAG, AI Agents and Full Stack Development.
+- 💡 Interested in startups, automation and product development.
+- 🤝 Open to collaborations and exciting opportunities.
+- ⚡ Turning ideas into real-world solutions.
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,flask,mysql,sqlite,git,github,vscode,figma&theme=dark&perline=6"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🤖 PartnerAI
-An AI-powered personal productivity and growth companion.
+
+AI-powered personal productivity and growth companion.
 
 - Intelligent task management
-- Habit tracking and gamification
-- AI-powered personal coaching
-- Memory and RAG integration
+- Habit tracking
+- AI coaching
+- Memory and RAG
+
+</td>
+<td width="50%">
 
 ### 🧭 DevPath
-A roadmap tracking platform designed to help developers navigate their learning journeys.
+
+A developer roadmap tracking platform.
+
+- Learning roadmaps
+- Progress tracking
+- Skill development
+- Goal management
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📧 Spam Email Finder
-An email analysis project exploring spam detection and workflow automation using Python and n8n.
+
+Python-based spam email detection and workflow automation.
+
+</td>
+<td width="50%">
+
+### 🧠 AI Experiments
+
+Exploring local LLMs, RAG pipelines, AI agents and automation.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 Currently Exploring
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+- Artificial Intelligence & Machine Learning
+- Large Language Models
+- Retrieval-Augmented Generation
 - AI Agents & Automation
-- Full Stack Application Development
+- Full Stack Architecture
 - Product Building & Entrepreneurship
-- System Design
 
 ---
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yoagesh-s-899463379/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+</div>
 
 ---
 
-### 💭 My Philosophy
+## 🐍 Contribution Activity
 
-> Don't just consume technology. Understand it, build with it, and create something meaningful.
+<div align="center">
 
-⭐ If you find my projects interesting, consider giving them a star!
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
 
-**Thanks for visiting my profile!**
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yoagesh-s-899463379/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Philosophy
+
+*"Don't just consume technology. Understand it, build with it, and create something meaningful."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
