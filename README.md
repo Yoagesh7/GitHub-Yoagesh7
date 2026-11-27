@@ -11,9 +11,9 @@
 ## 👨‍💻 About Me
 
 ```python
-class Yoagesh:
+class Yoagesh7:
     def __init__(self):
-        self.name = "Yoagesh S"
+        self.name = "Yoagesh7"
         self.role = "Full Stack Developer"
         self.education = "Final Year BCA"
         self.interests = [
@@ -28,7 +28,7 @@ class Yoagesh:
     def ambition(self):
         return "Build. Learn. Innovate. Repeat."
 
-me = Yoagesh()
+me = Yoagesh7()
 ```
 
 - 🔭 Building AI-powered applications and digital products.
